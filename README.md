@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tariqulshuvon
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning Spring Boot
+- 👀 I’m interested in Web development
+- 🌱 I’m currently working with Asp.Net Core and ReactJs, also I have some experience working with SpringBoot
 - 📫 How to reach me tariqulshuvon@gmail.com
 
 <!---
